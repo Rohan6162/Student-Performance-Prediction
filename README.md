@@ -145,3 +145,11 @@ Through this project, I practiced:
 * Model serialization using Joblib
 * Building a Machine Learning web application with Streamlit
 * GitHub project documentation
+
+## 🖥️ Application Screenshots
+
+### Prediction Interface
+![Prediction Interface](images/prediction.png)
+
+### Model Performance
+![Model Performance](images/model_performance.png)
