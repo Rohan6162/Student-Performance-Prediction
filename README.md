@@ -149,7 +149,9 @@ Through this project, I practiced:
 ## 🖥️ Application Screenshots
 
 ### Prediction Interface
-![Prediction Interface](images/prediction.png)
+
+<img src="images/prediction.png" alt="Prediction Interface" width="700">
 
 ### Model Performance
-![Model Performance](images/model_performance.png)
+
+<img src="images/model_performance.png" alt="Model Performance" width="700">
